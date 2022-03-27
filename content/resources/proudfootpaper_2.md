@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 8c5688d6-eb11-ac8f-e419-235dcb4a98f3
 resourcetype: Document
 title: proudfootpaper_2.pdf
 uid: b0ee9382-f801-37b9-37b5-3cd2b3de8acf

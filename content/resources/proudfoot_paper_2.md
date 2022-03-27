@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 8c5688d6-eb11-ac8f-e419-235dcb4a98f3
 resourcetype: Document
 title: Proudfoot_paper_2.pdf
 uid: d0aa5c79-9d42-14a7-87e2-19b3017e401e
