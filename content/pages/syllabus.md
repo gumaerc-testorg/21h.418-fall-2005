@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information about the subject requirements, grading
+  criteria, the course schedule and also contains a statement on cheating and plagiarism.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

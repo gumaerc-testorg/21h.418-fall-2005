@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section includes a former student's work which has become one of
+  the assigned readings.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
