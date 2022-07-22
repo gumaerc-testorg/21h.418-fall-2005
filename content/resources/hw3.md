@@ -6,6 +6,7 @@ file: /courses/21h-418-from-print-to-digital-technologies-of-the-word-1450-prese
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: hw3.pdf
 uid: 9b104a16-1c2d-2781-bca6-dbcd42a7c2e8
 ---
 This resource provides three problems related to the topic of english chapbooks.
-

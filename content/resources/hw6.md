@@ -6,6 +6,7 @@ file: /courses/21h-418-from-print-to-digital-technologies-of-the-word-1450-prese
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: hw6.pdf
 uid: f2eea277-cfd3-90e6-a8db-041715c620d4
 ---
 This resource contains 3 problems related to the topic of scripts, grooves, and writing machines.
-

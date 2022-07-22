@@ -5,6 +5,7 @@ file: /courses/21h-418-from-print-to-digital-technologies-of-the-word-1450-prese
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: hw7.pdf
 uid: 63f118e1-3529-f7ee-eb86-2163b5c03199
 ---
 This resource contains 3 questions on the topic of book clubs.
-

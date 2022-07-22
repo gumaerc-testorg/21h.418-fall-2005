@@ -6,6 +6,7 @@ file: /courses/21h-418-from-print-to-digital-technologies-of-the-word-1450-prese
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: paper2.pdf
 uid: 54bb5e8c-b3e9-379c-5e1a-c22a8399e3d2
 ---
 This resource gives the requirements and topics for the second paper to be done for the course.
-

@@ -6,6 +6,7 @@ file: /courses/21h-418-from-print-to-digital-technologies-of-the-word-1450-prese
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: hw4.pdf
 uid: 1e2304cf-2ef0-bc35-96b8-d7bd71197f2b
 ---
 This resource provides 3 problems associated with the topic Eisenstein?s printing revolution.
-
