@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section includes a former student's work which has become one of
+  the assigned readings.
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 title: Projects
 uid: 9f0a8a9e-1327-8983-9f90-71c8b348b9a8
 ---
