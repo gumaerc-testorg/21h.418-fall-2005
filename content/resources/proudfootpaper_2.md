@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains the student paper by David Proudfoot in which
   he's presented the journal of Johannes Gutenberg.
 file: /courses/21h-418-from-print-to-digital-technologies-of-the-word-1450-present-fall-2005/b0ee9382f80137b937b53cd2b3de8acf_proudfootpaper_2.pdf
+file_size: 23338
 file_type: application/pdf
 learning_resource_types:
 - Assignments
