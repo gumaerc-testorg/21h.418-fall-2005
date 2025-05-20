@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/21h-418-from-print-to-digital-technologies-of-the-word-1450-present-fall-2005/d0aa5c799d4214a787e219b3017e401e_Proudfoot_paper_2.pdf
+file: /courses/21h-418-from-print-to-digital-technologies-of-the-word-1450-present-fall-2005/d0aa5c799d4214a787e219b3017e401e_Proudfoot_paper_2.pdf
 file_size: 23338
 file_type: application/pdf
 learning_resource_types:
