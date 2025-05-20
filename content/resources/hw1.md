@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains three questions related to orality and literacy.
-file: /ol-ocw-studio-app/courses/21h-418-from-print-to-digital-technologies-of-the-word-1450-present-fall-2005/108f7d027cd0f07e410bf1891d9b409e_hw1.pdf
+file: /courses/21h-418-from-print-to-digital-technologies-of-the-word-1450-present-fall-2005/108f7d027cd0f07e410bf1891d9b409e_hw1.pdf
 file_size: 13521
 file_type: application/pdf
 learning_resource_types:

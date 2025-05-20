@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains 3 questions on the topic of book clubs.
-file: /ol-ocw-studio-app/courses/21h-418-from-print-to-digital-technologies-of-the-word-1450-present-fall-2005/63f118e13529f7eeeb862163b5c03199_hw7.pdf
+file: /courses/21h-418-from-print-to-digital-technologies-of-the-word-1450-present-fall-2005/63f118e13529f7eeeb862163b5c03199_hw7.pdf
 file_size: 16004
 file_type: application/pdf
 learning_resource_types:
