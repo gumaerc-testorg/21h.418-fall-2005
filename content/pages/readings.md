@@ -21,7 +21,7 @@ Gitelman, Lisa. *Scripts, Grooves, and Writing Machines: Representing Technology
 
 Long, Elizabeth. *Book Clubs: Women and the Uses of Reading in Everyday Life*. Chicago, IL: Chicago University Press, 2003. ISBN: 9780226492612.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262025591) Boczkowski, Pablo. [*Digitizing the News: Innovation in Online Newspapers*](https://mitpress.mit.edu/9780262025591). Cambridge, MA: The MIT Press, 2004. ISBN: 9780262025591.
+{{% resource_link "2ca740dc-dfc1-43f0-ae35-7eb560f750a0" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Boczkowski, Pablo. {{% resource_link "2ca740dc-dfc1-43f0-ae35-7eb560f750a0" "*Digitizing the News: Innovation in Online Newspapers*" %}}. Cambridge, MA: The MIT Press, 2004. ISBN: 9780262025591.
 
 ## Recommended Texts
 
@@ -41,9 +41,9 @@ READINGS
 Introduction: The Perpetually Imminent Demise of the Book
 {{< tdclose >}}{{< tdopen >}}
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262631761) Murphy, Priscilla Coit. "[Books Are Dead, Long Live Books](http://web.mit.edu/transition/subs/murphy.html)." Cambridge, MA: MIT Communications Forum, 1999.
+{{% resource_link "78a77209-f500-445b-a4f7-dd32b5b57204" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Murphy, Priscilla Coit. "{{% resource_link "efc71b91-fd2b-4924-aa6d-c32a0742df02" "Books Are Dead, Long Live Books" %}}." Cambridge, MA: MIT Communications Forum, 1999.
 
-Mitchell, William. "Homer to Home Page: Designing Digital Books." [*City of Bits: Space, Place, and the Infobahn*](https://mitpress.mit.edu/9780262631761). Cambridge, MA: The MIT Press, February 1996. ISBN: 9780262631761.
+Mitchell, William. "Homer to Home Page: Designing Digital Books." {{% resource_link "78a77209-f500-445b-a4f7-dd32b5b57204" "*City of Bits: Space, Place, and the Infobahn*" %}}. Cambridge, MA: The MIT Press, February 1996. ISBN: 9780262631761.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 2
@@ -55,7 +55,7 @@ Ong, Walter. *Orality and Literacy: The Technologizing of the Word*. New York, N
 
 *Optional*
 
-McLuhan, Marshall. [*Understanding Media: The Extensions of Man*](https://mitpress.mit.edu/books/understanding-media). Cambridge, MA: MIT Press, 1994, pp. 3-73. ISBN: 9780262631594.
+McLuhan, Marshall. {{% resource_link "0e5b2584-f6df-4898-bddf-767d5846cf63" "*Understanding Media: The Extensions of Man*" %}}. Cambridge, MA: MIT Press, 1994, pp. 3-73. ISBN: 9780262631594.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
@@ -73,11 +73,11 @@ Tan, Philip. "[Little Leadings](/ans7870/21h/21h.418/philip/index.html)." 1998 (
 
 Video: "The Renaissance Book." (To be shown in class).
 
-[The Society for the History of Authorship, Reading, and Printing](http://www.sharpweb.org/)
+{{% resource_link "e3553c11-3938-404c-a64c-45ae21e7ceb1" "The Society for the History of Authorship, Reading, and Printing" %}}
 
-[The Lindisfarne Gospels](http://www.bl.uk/onlinegallery/features/lindisfarne/home.html) (Digital reproduction of a famous medieval manuscript.)
+{{% resource_link "ecb73b78-6057-43f9-aa55-7a911cf94b4e" "The Lindisfarne Gospels" %}} (Digital reproduction of a famous medieval manuscript.)
 
-[Oxford Medieval Manuscript Collection](http://www.bodley.ox.ac.uk/dept/scwmss/wmss/medieval/browse.htm#11th) (Online manuscript collection of the Bodleian Library, Oxford, UK.)
+{{% resource_link "430c5347-2e0e-4007-82d2-e63e4f870aca" "Oxford Medieval Manuscript Collection" %}} (Online manuscript collection of the Bodleian Library, Oxford, UK.)
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
@@ -89,7 +89,7 @@ Spufford, Margaret. *Small Books and Pleasant Histories: Popular Fiction and Its
 
 Thompson, Roger, ed. *Samuel Pepys' Penny Merriments*. New York, NY: Columbia University Press, 1977, pp. 102-113 and 247-263. ISBN: 9780231042802.
 
-Read a seventeenth-century chapbook at [Harvard's Houghton Library](https://library.harvard.edu/libraries/houghton) or a work in the [Early English Books Online (EEBO)](http://eebo.chadwyck.com/home) database. Details to be provided in class.
+Read a seventeenth-century chapbook at {{% resource_link "f92bc6f1-64bb-4c48-931c-2910ab5eb9ba" "Harvard's Houghton Library" %}} or a work in the {{% resource_link "94bc767b-14e8-4fdb-ac97-d17782656e50" "Early English Books Online (EEBO)" %}} database. Details to be provided in class.
 
 Hausman, Nicholas. {{% resource_link 9f0a8a9e-1327-8983-9f90-71c8b348b9a8 "Chapbook Analysis" %}}. (Student analysis of Guy of Warwick)
 
@@ -109,9 +109,9 @@ Johns, Adrian. "How to Acknowledge a Revolution." *American Historical Review* 1
 
 Eisenstein, Elizabeth. "Reply." *American Historical Review* 107 (February 2002): 126-128.
 
-[Printing: Renaissance and Reformation](http://www.sc.edu/library/spcoll/sccoll/renprint/renprint.html) (Examples of late manuscript and early print culture.)
+{{% resource_link "cc089633-4d95-46fe-a2dc-d1b4b850d386" "Printing: Renaissance and Reformation" %}} (Examples of late manuscript and early print culture.)
 
-[Burndy Library](http://web.mit.edu/dibner/) (MIT)
+{{% resource_link "f373fe58-fb18-490e-807f-df225c3df3e2" "Burndy Library" %}} (MIT)
 
 *Optional*
 
@@ -125,9 +125,9 @@ Critiquing Early Printing Assignments
 
 In-class exercises.
 
-[Early English Books Online](http://eebo.chadwyck.com/home) (EEBO)
+{{% resource_link "94bc767b-14e8-4fdb-ac97-d17782656e50" "Early English Books Online" %}} (EEBO)
 
-[Houghton Library](http://hcl.harvard.edu/libraries/#houghton) (Harvard)
+{{% resource_link "d3b0324d-2fe5-4153-a778-4b2f3dea0b9e" "Houghton Library" %}} (Harvard)
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
@@ -137,7 +137,7 @@ Typesetting
 
 A Visit to the Bow and Arrow Press at Adams House, Harvard University.
 
-Read about the press in [The Harvard Gazette](https://news.harvard.edu/gazette/story/2010/09/bow-and-arrow-press-party-in-the-press/) (2002) and [The Harvard Crimson](http://www.thecrimson.com/) (2006)
+Read about the press in {{% resource_link "a2372f41-7f7c-4670-a452-d89c38669939" "The Harvard Gazette" %}} (2002) and {{% resource_link "ed919e1d-455f-490d-8734-d5251129cbea" "The Harvard Crimson" %}} (2006)
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
@@ -149,7 +149,7 @@ Urton, Gary. *Signs of the Inka Khipu: Binary Coding in the Andean Knotted-Strin
 
 Conklin, William J. "A Khipu Information String Theory." In *Narrative Threads: Accounting and Recounting in Andean Khipu*. Edited by Jeffrey Quilter and Gary Urton. Austin, TX: University of Texas Press, 2002, pp. 53-86.
 
-[The Khipu Database Project](https://grantome.com/grant/NSF/BCS-0408324)
+{{% resource_link "0b0faaea-1d41-499c-a9e8-ae7495ae111a" "The Khipu Database Project" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
@@ -171,9 +171,9 @@ Reading Communities Today
 
 Long, Elizabeth. *Book Clubs: Women and the Uses of Reading in Everyday Life*. Chicago, IL: Chicago University Press, 2003. ISBN: 9780226492612.
 
-[Houston Book Club](http://www.houstonbookclub.com/hbc_links.htm)
+{{% resource_link "5b16ccae-9214-4937-93ae-530154ff1533" "Houston Book Club" %}}
 
-[Oprah's Book Club](http://www.oprah.com/app/books.html)
+{{% resource_link "b5ac2c00-c2c9-42d1-916d-27fe7b9d1c5b" "Oprah's Book Club" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12
@@ -181,11 +181,11 @@ Long, Elizabeth. *Book Clubs: Women and the Uses of Reading in Everyday Life*. C
 Reading Online
 {{< tdclose >}}{{< tdopen >}}
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262025591) Boczkowski, Pablo. [*Digitizing the News: Innovation in Online Newspapers*](https://mitpress.mit.edu/9780262025591). Cambridge, MA: MIT Press, 2004. ISBN: 9780262025591.
+{{% resource_link "2ca740dc-dfc1-43f0-ae35-7eb560f750a0" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Boczkowski, Pablo. {{% resource_link "2ca740dc-dfc1-43f0-ae35-7eb560f750a0" "*Digitizing the News: Innovation in Online Newspapers*" %}}. Cambridge, MA: MIT Press, 2004. ISBN: 9780262025591.
 
-[New York Times Technology Section online](http://www.nytimes.com/pages/technology/index.html)
+{{% resource_link "0eb113fc-392e-4168-8885-ec7cc05a8eeb" "New York Times Technology Section online" %}}
 
-The Houston Chronicle "[Virtual Voyager](http://vv8.jetc.org/)."
+The Houston Chronicle "{{% resource_link "8b70ec14-460a-402b-928d-1fa72100d8f9" "Virtual Voyager" %}}."
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13
